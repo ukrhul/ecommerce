@@ -1,0 +1,2 @@
+INSERT INTO users(full_name, email, password, join_date, last_login, permission) VALUES ('Rahul Upadhyay', 'ukrhul@gmail.com', '$2y$10$UWOPPVqPB/XZMLrQo/VdZemsWFUbdtj.1d/.zpab5958SPlZFgrVa', CURRENT_TIMESTAMP, '01-07-2018 10:11:11', 'admin.editor' );
+INSERT INTO users(full_name, email, password, join_date, last_login, permission) VALUES ('Himanshu Kashyap', 'ukhimanshu@gmail.com', '$2y$10$UWOPPVqPB/XZMLrQo/VdZemsWFUbdtj.1d/.zpab5958SPlZFgrVa', CURRENT_TIMESTAMP, '02-08-2018 10:11:11', 'editor' );
